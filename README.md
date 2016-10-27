@@ -1,6 +1,6 @@
 # code2040
 <b>this is for the technical assessment for code 2040</b>
-<br>My name is <a target="_blank" href="https://www.linkedin.com/in/mshehan">Matthew Shehan</a>
+<br>My name is <a href="https://www.linkedin.com/in/mshehan" target='_blank'>Matthew Shehan</a>
 <br>I am a third year student at UCSC pursuing a bachelor's of science in computer science
 <br>
 <ul>
