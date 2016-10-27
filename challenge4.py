@@ -1,8 +1,3 @@
-#prefix is a string
-#array is String array[]
-#return an array containing only the strings that do not start
-#with the prefix
-
 import requests as req
 import sys
 import json
