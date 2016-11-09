@@ -10,7 +10,6 @@ reqkey = {"token":token}
 request = req.post(getUrl,json=reqkey)
 
 myJSON = json.loads(request.text)
-print(myJSON)
 needle = myJSON['needle']
 haystack = myJSON['haystack']
 position = -1
